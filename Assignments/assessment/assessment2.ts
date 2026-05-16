@@ -1,3 +1,4 @@
+//
 // A bank evaluates loan applicants based on the following criteria:
 // 1. Credit Score:
 // o If the credit score is above 750, the loan is automatically approved.
