@@ -1,0 +1,1 @@
+# To maintain page-wise locators (page-elements) and page-wise common methods (page-steps) separately to implement the page object model design pattern in our framework

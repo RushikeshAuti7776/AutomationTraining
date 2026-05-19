@@ -1,0 +1,1 @@
+# To maintain all the common methods related to UI (web-commons.ts), API(api-commons.ts), database(db-commons.ts), load testing (jmeter-commons.ts) and AI (ai-commons.ts)

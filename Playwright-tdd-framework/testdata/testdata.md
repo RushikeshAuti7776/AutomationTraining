@@ -1,0 +1,1 @@
+# To maintain the test data related to each and every component like UI, API, database, and performance testing

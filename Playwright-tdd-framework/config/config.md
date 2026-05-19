@@ -1,0 +1,1 @@
+# To maintain the configuration data or common data for all the components Like URLs, credentials, DB connection information, AI tokens, etc.  (config.json)
