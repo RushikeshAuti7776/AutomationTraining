@@ -204,7 +204,6 @@ Application UI: https://github.com/
 API Documentation: https://docs.github.com/en/rest/repos/repos?apiVersion=2026-03-10
 
 Git Account : bharathtechacademy05
-GIT TOKEN : <provide a GitHub token securely; do not commit credentials>
 BASE URL : https://api.github.com
 
 URL to Generate Token : https://github.com/settings/tokens/new
